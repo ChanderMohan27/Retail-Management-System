@@ -2,9 +2,10 @@
 
 ## Objective 
 
-The aim of this project is to create a retail management system by using python skills.
+The aim of this project is to create a retail management system by using python skills. In this project, I have used object oriented programming to complete this project. 
+<img width="1440" alt="example" src="https://github.com/ChanderMohan27/Retail-Management-System/assets/128381758/00dfd447-30a4-4bf5-854b-c22399c9b837">
 
-In this project, I have used object oriented programming to complete this project. 
+
 
 ## Instruction 
 
